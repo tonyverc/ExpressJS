@@ -1,0 +1,28 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Ce repo contient une appli express.js de type \"Hello World\" pour tester le deploiement.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyverc/ExpressJS"
+  },
+  "keywords": [
+    "appli",
+    "express.js",
+    "test",
+    "deploiement"
+  ],
+  "author": "tonyverc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyverc/ExpressJS keywords: appli,test,deploiement/issues"
+  },
+  "homepage": "https://github.com/tonyverc/ExpressJS keywords: appli,test,deploiement#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
